@@ -19,6 +19,12 @@ Clone the repository
 git clone https://github.com/nurodev/nuro.dev.git
 ```
 
+Clone 'this' repository
+
+```zsh
+git clone https://github.com/satvks/portfolio.dev.git
+```
+
 Install dependencies
 
 ```zsh
