@@ -3,7 +3,7 @@ banner_alt: FMOD and Unity development
 banner: /blog/FMOD_Unity_Projects/unity-fmod-logo.png
 title: FMOD and Unity Journey
 description: It's been a long year & a lot has happened so I wanted to recap it all
-date: '06-10-2022'
+date: '2024-09-15'
 ---
 
 ## :speaker: FMOD and Unity  

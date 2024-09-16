@@ -4,7 +4,7 @@ banner: /blog/hello_world/digital-binary-code-landscape-banner.png
 title_prefix: Introducing
 title: Code Samples
 description: A little more than a cheeky hello world a p5 program I learned about on youtube, and more to come.
-date: '09-15-2024'
+date: '2024-09-12'
 ---
 
 ## A look at some code samples
