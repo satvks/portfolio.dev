@@ -20,7 +20,7 @@ const ACTIONS: Array<NavigationItem> = [
 		type: NavigationItemType.LINK,
 		href: '/blog',
 		icon: <Icon className="mr-3" icon="feather:edit-3" />,
-		text: 'Blog',
+		text: 'Major Projects',
 	},
 	{
 		type: NavigationItemType.LINK,
@@ -31,7 +31,7 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://github.com/nurodev',
+		href: 'https://github.com/satvks',
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
 	},
@@ -39,7 +39,7 @@ const ACTIONS: Array<NavigationItem> = [
 
 export default function HomePage(): JSX.Element {
 	const today = new Date();
-	const birthday = new Date('1997-08-09');
+	const birthday = new Date('2000-11-05');
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
@@ -57,8 +57,8 @@ export default function HomePage(): JSX.Element {
 							scale: [0.75, 1],
 						}}
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-8xl tracking-tight font-extrabold">
-						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
-						I&apos;m Ben, <br className="hidden sm:block" />a{' '}
+						Hi <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
+						I&apos;m Satvik, <br className="hidden sm:block" />a{' '}
 						<Pill.Standard className="mt-4">developer</Pill.Standard>
 					</Animate>
 
