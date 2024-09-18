@@ -18,7 +18,7 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 		{
 			type: NavigationItemType.LINK,
 			icon: 'feather:edit-3',
-			text: 'Major Projects',
+			text: 'Project Blog',
 			href: '/blog',
 		},
 		{
